@@ -1,0 +1,7 @@
+[
+	{
+		"name" : "Default Template",
+		"description" : "Default Template",
+		"files" : [ "index.php", "page.php" ]
+	}
+]
